@@ -9,4 +9,4 @@ function getIndexToIns(arr, num) {
 
 }
 
-console.log(getIndexToIns([3, 10, 5], 3));
+getIndexToIns([3, 10, 5], 3);
